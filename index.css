@@ -1,0 +1,24 @@
+header{
+background-image: url("cupcake4.jpg");
+text-align: center;
+border:2px;
+font-family: fantasy;
+font-size: 40px;
+
+}
+.flashy{
+  color: red;
+}
+.best{
+  text-align: center;
+  font-family: monospace;
+  font-size: 20px;
+}
+footer{
+  text-align: center;
+  font-size: 17px;
+  font-family: monospace;
+  background-image: url("cupcake3.jpg");
+
+
+}
